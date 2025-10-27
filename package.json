@@ -16,6 +16,8 @@
     "lint:prettier": "prettier --check ."
   },
   "dependencies": {
+    "stripe": "^16.0.0",
+    "@stripe/stripe-js": "^2.5.0"
     "@elysiajs/html": "^1.4.0",
     "@elysiajs/jwt": "^1.4.0",
     "@elysiajs/static": "^1.4.0",
